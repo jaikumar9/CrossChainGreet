@@ -16,3 +16,17 @@ node_modules
 
 # Ethers-contracts
 ts-scripts/ethers-contracts/
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
